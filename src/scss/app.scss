@@ -26,7 +26,8 @@ html {
 }
 
 .card {
-  width: 500px;
+  box-sizing: content-box;
+  width: 490px;
   border: 10px solid $grey-light;
 }
 
